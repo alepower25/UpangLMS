@@ -1,5 +1,7 @@
-# UpangLMS
+# UpangLMS Virtual Host
 Library Management System for PHINMA - University of Pangasinan (Dagupan)
+you need to follow these instructions in order to prevent broken images.
+i am telling you. real talk.
 
 Under xampp directory:
 
