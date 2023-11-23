@@ -7,7 +7,7 @@ Under xampp directory:
 
 1. Go to apache/conf/extra directory
 2. Open httpd-vhosts.conf with Notepad
-3. Paste this sa end of the file
+3. Paste this at end of the file
 
 <VirtualHost *:80>
     DocumentRoot "C:\xampp\htdocs\[folder name of your project]"
