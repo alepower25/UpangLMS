@@ -3,9 +3,8 @@
 This was created by the students University of Pangasinan
 
 
-# UpangLMS Virtual Host
 
-# UpangLMS Virtual Host
+# UpangLMS Virtual Host (how to run the system)
 Library Management System for PHINMA - University of Pangasinan (Dagupan)
 you need to follow these instructions in order to prevent broken images.
 i am telling you. real talk.
