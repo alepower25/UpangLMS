@@ -1,6 +1,4 @@
-# UpangLMS 
 
-This was created by the students University of Pangasinan
 
 
 
